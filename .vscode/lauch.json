@@ -1,0 +1,19 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ProgramaRHCalculoSalario",
+            "request": "launch",
+            "mainClass": "ProgramaRHCalculoSalario",
+            "projectName": "ProgramaRHCalculoSalario_56f682cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "MaquinaDeComprar."
+        }
+    ]
+}
