@@ -1,10 +1,9 @@
-# Projeto-Maquina-de-Compra
+## 📌 PROJETO MAQUINA DE COMPRA
+
+* Projeto Maquina de Compra com estrutura de repetição.
 
 ##
 
-Projeto Maquina de Compra com estrutura de repetição.
-
-##
-
-Linguagem usada: JAVA
+## ✔️ TECNOLOGIA USADA
+* JAVA
 
